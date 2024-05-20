@@ -1,5 +1,4 @@
 #include <iostream>
-//#include "calculator.h"
 
 using namespace std;
 
@@ -7,7 +6,6 @@ void addition(int value, int value2, int result);
 void subtraction(int value, int value2, int result);
 void division(int value, int value2, int result);
 void multiplcation(int value, int value2, int result);
-//void orderOfOperations();
 
 int main()
 {
@@ -75,14 +73,3 @@ void multiplcation(int value, int value2, int result)
     result = value * value2;
     cout << result;  
 }
-
-/*void orderOfOperations
-{
-    if (operation = '*')
-    {
-        
-    }
-    
-    
-}
-*/
