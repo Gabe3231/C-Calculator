@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include "basicCalculator2.h"
 
 using std::cout;
 using std::cin;
