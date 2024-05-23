@@ -1,10 +1,14 @@
 #include <iostream>
 #include <string>
 
+void addition(int value, int value2, int result);
+void subtraction(int value, int value2, int result);
+void division(int value, int value2, int result);
+void multiplcation(int value, int value2, int result);
+
 using std::cout;
 using std::cin;
 using std::endl;
-
 
 int main()
 {
